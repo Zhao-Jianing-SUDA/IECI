@@ -1,4 +1,4 @@
-<h2 align="center"> <a href="https://arxiv.org/pdf/2402.19116"> How to Understand ''Support''? An Implicit-enhanced Causal Inference Approach for Weakly-supervised Phrase Grounding
+<h2 align="center"> <a href="https://arxiv.org/pdf/2402.19116"> How to Understand ''Support''? An Implicit-enhanced Causal Inference Approach for Weakly-supervised Phrase Grounding</a></h2>
   
 ### Open-Source Checklist
 - [ ] ~~Dataset~~
